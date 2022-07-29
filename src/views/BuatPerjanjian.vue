@@ -34,7 +34,7 @@ const phone = ref("");
 
          <div>
           <div class="flex items-center">
-            <button class="bulat group">
+            <button class="bulat group>jyhtbgfdcsxa">
               <p class="font-lora font-medium text-2xl group-focus:text-white">2</p>
             </button>
             <div class="ml-4">
@@ -46,7 +46,7 @@ const phone = ref("");
 
          <div>
           <div class="flex items-center">
-            <button class="bulat group">
+            <button class="bulat group>jyhtbgfdcsxa">
               <p class="font-lora font-medium text-2xl group-focus:text-white">3</p>
             </button>
             <div class="ml-4">
