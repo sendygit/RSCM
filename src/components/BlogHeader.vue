@@ -17,15 +17,15 @@
       </div>
     </div>
 
-    <div class="flex items-center mt-20">
-      <button class="border border-r-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Semua</button>
-      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">COVID - 19</button>
-      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Penyakit</button>
-      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Pengobatan</button>
-      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Pasien</button>
-      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Tenaga Medis</button>
-      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Dokter</button>
-      <button class="border border-l-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg text-butu focus:bg-mermud focus:text-white">Pendidikan</button>
+    <div class="flex mt-20 ">
+      <button class="border border-r-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow  ">Semua</button>
+      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6  xl:py-6 text-lg lg:text-sm text-butu focus:bg-mermud focus:text-white flex-grow ">COVID-19</button>
+      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow ">Penyakit</button>
+      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow ">Pengobatan</button>
+      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow ">Pasien</button>
+      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6  xl:py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow ">Tenaga Medis</button>
+      <button class="border border-x-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow ">Dokter</button>
+      <button class="border border-l-[#C9C9C9] bg-[#F5F5F3] px-10 py-6 text-lg lg:text-base text-butu focus:bg-mermud focus:text-white flex-grow ">Pendidikan</button>
     </div>
   </div>
 </template>
